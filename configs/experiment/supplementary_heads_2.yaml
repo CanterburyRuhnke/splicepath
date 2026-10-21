@@ -1,0 +1,5 @@
+inherit: base
+name: supplementary_heads_2
+model:
+  reca:
+    num_heads: 2

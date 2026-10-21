@@ -1,0 +1,7 @@
+inherit: base
+name: ablation_tier2_wo_reca_tftm
+model:
+  reca:
+    use_reca: false
+  tftm:
+    use_tftm: false

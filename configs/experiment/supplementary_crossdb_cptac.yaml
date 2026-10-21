@@ -1,0 +1,6 @@
+inherit: base
+name: supplementary_crossdb_cptac
+data:
+  cancer_types: [BRCA, UVM, LAML, LUAD, COAD, COAD]
+  test_slides: 24
+  noise: 0.55

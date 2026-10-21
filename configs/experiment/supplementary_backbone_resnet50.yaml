@@ -1,0 +1,6 @@
+inherit: base
+name: supplementary_backbone_resnet50
+model:
+  backbone:
+    name: resnet50
+    embed_dim: 2048

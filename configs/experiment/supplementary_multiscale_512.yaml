@@ -1,0 +1,5 @@
+inherit: base
+name: supplementary_multiscale_512
+model:
+  backbone:
+    patch_sizes: [512]

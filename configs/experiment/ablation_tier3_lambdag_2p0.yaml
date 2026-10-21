@@ -1,0 +1,4 @@
+inherit: base
+name: ablation_tier3_lambdag_2p0
+train:
+  lambda_g: 2.0

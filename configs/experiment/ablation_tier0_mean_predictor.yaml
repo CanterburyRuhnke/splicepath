@@ -1,0 +1,4 @@
+inherit: base
+name: ablation_tier0_mean_predictor
+data:
+  mean_predictor: true

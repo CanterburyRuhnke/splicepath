@@ -1,0 +1,7 @@
+inherit: base
+name: ablation_tier2_wo_reca_gad
+model:
+  reca:
+    use_reca: false
+  gad:
+    use_gad: false

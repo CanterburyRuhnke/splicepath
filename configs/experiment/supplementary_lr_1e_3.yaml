@@ -1,0 +1,4 @@
+inherit: base
+name: supplementary_lr_1e_3
+train:
+  lr: 0.001

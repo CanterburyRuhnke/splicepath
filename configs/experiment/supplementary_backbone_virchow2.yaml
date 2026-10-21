@@ -1,0 +1,6 @@
+inherit: base
+name: supplementary_backbone_virchow2
+model:
+  backbone:
+    name: virchow2
+    embed_dim: 1280

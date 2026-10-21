@@ -1,0 +1,6 @@
+inherit: base
+name: supplementary_backbone_uni
+model:
+  backbone:
+    name: uni
+    embed_dim: 1024

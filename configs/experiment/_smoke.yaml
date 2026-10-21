@@ -1,0 +1,22 @@
+inherit: base
+name: _smoke
+device: cpu
+
+data:
+  num_events: 16
+  num_patches: 16
+  grid_size: 4
+  train_slides: 2
+  val_slides: 2
+  test_slides: 2
+  latent_dim: 8
+  noise: 0.3
+
+train:
+  epochs: 8
+  batch_size: 2
+  grad_accum: 1
+  world_size: 1
+  lr: 0.001
+  warmup_steps: 0
+  amp: false

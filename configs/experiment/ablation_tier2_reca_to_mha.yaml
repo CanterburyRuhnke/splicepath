@@ -1,0 +1,5 @@
+inherit: base
+name: ablation_tier2_reca_to_mha
+model:
+  reca:
+    standard_mha: true

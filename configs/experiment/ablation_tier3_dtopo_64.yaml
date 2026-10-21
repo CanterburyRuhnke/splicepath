@@ -1,0 +1,5 @@
+inherit: base
+name: ablation_tier3_dtopo_64
+model:
+  topology:
+    d_topo: 64

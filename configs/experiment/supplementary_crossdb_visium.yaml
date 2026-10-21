@@ -1,0 +1,8 @@
+inherit: base
+name: supplementary_crossdb_visium
+data:
+  cancer_types: [BRCA, COAD]
+  num_events: 200
+  grid_size: 8
+  test_slides: 40
+  noise: 0.5

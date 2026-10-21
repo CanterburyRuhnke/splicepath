@@ -1,0 +1,4 @@
+inherit: base
+name: ablation_tier0_random_input
+data:
+  randomize_input: true

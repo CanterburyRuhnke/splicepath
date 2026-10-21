@@ -1,0 +1,5 @@
+inherit: base
+name: ablation_tier1_wo_topology
+model:
+  topology:
+    use_topology: false
